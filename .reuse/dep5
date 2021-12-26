@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: 《自由知識協作平台》主題範本
-Upstream-Contact: Issues · libre-knowledge/subject-template <https://github.com/libre-knowledge/subject-template/issues>
-Source: https://github.com/libre-knowledge/subject-template
+Upstream-Name: 網域名稱系統 Domain Name System(DNS)
+Upstream-Contact: Issues · libre-knowledge/dns <https://github.com/libre-knowledge/dns/issues>
+Source: https://github.com/libre-knowledge/dns
 
 Files:
   *README.md
