@@ -162,6 +162,8 @@ ICANN 目前允許第三方申請非典型的通用頂級網域作為註冊商�
 
 * dig DNS 查詢工具  
   查詢 DNS 域名服務器並顯示查詢結果
+* [GRC's DNS Benchmark](https://github.com/libre-knowledge/grc-dns-benchmark)  
+  Windows 與 Linux/Wine 平台的 DNS 服務效能量測工具
 
 ## 參考資料
 

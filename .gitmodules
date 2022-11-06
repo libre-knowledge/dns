@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "GRC's DNS Benchmark"]
+	path = GRC's DNS Benchmark
+	url = https://github.com/libre-knowledge/grc-dns-benchmark.git
+	ignore = dirty
